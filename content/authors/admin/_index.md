@@ -56,4 +56,6 @@ website: "www.narenkhatwani.com"
 
 Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research passion lies in the filed of Ontologies, with a keen interest in Massive Scale Analytics. Alongside my research, I am a Teaching Assistant for Advanced Database System Design
 
-I write blogs in my past time to help out incoming graduate students. Fortunately I have had great mentors and senior during my academic journey and they have always taught me to be help out my juniors. The following content is free to access and I intend to always keep it that way. 
+I write blogs in my past time to help out incoming graduate students. Fortunately I have had great mentors and seniors during my academic journey and they have always taught me to be help out fellow juniors. 
+
+The following content is free to access and I intend to always keep it that way. 
