@@ -13,7 +13,7 @@ Welcome 👋
 
 Ensure to pack these essential items:
 
-#### Things to avoid buying from own country and to be bought from US instead
+Things to avoid buying from home country and to be bought from US instead
 
 - [ ] Overcoat
 - [ ] Winter Jacket
@@ -28,18 +28,18 @@ Ensure to pack these essential items:
     - [ ] Lower Body
 - [ ] Traditional Wear
 - [ ] Formal Wear
-- [ ] Blazer - 2 (One Black and Navy Blue)
-- White Shirt
-- Beige/Khaki Pant
-- Black Pant
-- Navy Blue Pant
-
-These can be worn for career fairs or any formal events on campus and can be combined with any colors giving you a wider range of outfits.
-
+    - [ ] Blazer - 2 (One Black and Navy Blue)
+    - [ ] White Shirt
+    - [ ] Beige/Khaki Pant
+    - [ ] Black Pant
+    - [ ] Navy Blue Pant
 - [ ] Undergarments (the more the better)
 - [ ] Socks
 - [ ] Jeans
 - [ ] Shorts
+
+These formals can be worn for career fairs or any formal events on campus and can be combined with other colors giving you a wider range of outfits.
+
 
 #### Toiletries
 
@@ -114,7 +114,9 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 
 [Apna Bazar Online - Order Online, Indian Grocery Delivery!](https://www.apnabazarstores.com/)
 
-### Medicines (Make sure to get these and more that you may need with a Prescription)
+### Medicines 
+
+(Make sure to get these and more that you may need with a Prescription)
 
 - [ ] For Period Cramps
 - [ ] For Headaches/ Migraines
@@ -129,7 +131,8 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 - [ ] Vicks
 - [ ] Moov/Volini
 
-### Cosmetics (Get Your Makeup and Skincare)
+### Cosmetics 
+(Get Your Makeup and Skincare)
 
 - [ ] Primer
 - [ ] Foundation
@@ -173,4 +176,4 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 - [ ] Presentation Pointer
 - [ ] A portable bidet (jetspray) YES, you get a portable jetspray on Amazon.
 
-Do not buy new laptops or phones from India. US has better deals for students.
+Do not buy new laptops or phones from India. USA has better deals for students.
