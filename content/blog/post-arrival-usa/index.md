@@ -1,15 +1,15 @@
 ---
 title: "Pre and Post Arrival to USA"
-date: 2023-10-27
-authors: [admin, Ted]
+date: 2024-04-18
+authors: [admin, Sakshi Agarwal]
 tags: [Travel, USA, Packing List]
 ---
 
-Welcome 👋
+Welcome 👋 
 
 ## Packing for the trip
 
-### 1. Items to Carry
+### Items to Carry
 
 Ensure to pack these essential items:
 
@@ -93,14 +93,14 @@ These can be worn for career fairs or any formal events on campus and can be com
 - [ ] Idli Maker
 - [ ] Appam Maker
 
-#### Food Items
+### Food Items
 
 Please avoid any white colored spices or food items like sugar, salt, rice and flour they can be confused with something else
 
 - [ ] Ready to eat Poha, Upma
 - [ ] Ready to eat MTR mix
 - [ ] Dehydrated Food
-- [ ] Spices (Haldi, Mirchi, Dhaniya Powder, Jeera Powder, Amchur Powder, etc)
+- [ ] Spices (Haldi, Mirchi, Dhaniya Powder, Jeera Powder)
 - [ ] Ready to Eat Maggi, Maggi pasta and Oats
 - [ ] Dry Fruits
 
@@ -114,7 +114,7 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 
 [Apna Bazar Online - Order Online, Indian Grocery Delivery!](https://www.apnabazarstores.com/)
 
-#### Medicines (Make sure to get these and more that you may need with a Prescription)
+### Medicines (Make sure to get these and more that you may need with a Prescription)
 
 - [ ] For Period Cramps
 - [ ] For Headaches/ Migraines
@@ -129,7 +129,7 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 - [ ] Vicks
 - [ ] Moov/Volini
 
-#### Cosmetics (Get Your Makeup and Skincare)
+### Cosmetics (Get Your Makeup and Skincare)
 
 - [ ] Primer
 - [ ] Foundation
@@ -161,7 +161,7 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 - [ ] Scrunchies
 - [ ] Hair Pins
 
-#### Miscellaneous Items
+### Miscellaneous Items
 
 - [ ] Sewing Kit
 - [ ] Travel Adapter - for charging phones in transit countries or landing country
