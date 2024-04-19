@@ -1,5 +1,5 @@
 ---
-title: "Pre and Post Arrival to USA"
+title: "Pre Arrival to USA"
 date: 2024-04-18
 authors: [admin, Sakshi Agarwal]
 tags: [Travel, USA, Packing List]
@@ -94,7 +94,7 @@ These formals can be worn for career fairs or any formal events on campus and ca
 - [ ] Idli Maker
 - [ ] Appam Maker
 
-### Food Items
+#### Food Items
 
 Please avoid any white colored spices or food items like sugar, salt, rice and flour they can be confused with something else
 
@@ -105,17 +105,7 @@ Please avoid any white colored spices or food items like sugar, salt, rice and f
 - [ ] Ready to Eat Maggi, Maggi pasta and Oats
 - [ ] Dry Fruits
 
-### Resources to order Groceries
-
-These deliver Indian Groceries to you on the same day or within 1-2 days with a minimum delivery fee. The prices of items may be a little higher than Indian grocery stores located offline in the States.
-
-[Kesar Grocery - Online Indian Grocery Store in USA](https://www.kesargrocery.com/trackreferrals/n82vnO)
-
-[Indian Marketplace for Authentic Groceries & Food | Quicklly](https://www.quicklly.com/online-indian-marketplace)
-
-[Apna Bazar Online - Order Online, Indian Grocery Delivery!](https://www.apnabazarstores.com/)
-
-### Medicines 
+#### Medicines 
 
 (Make sure to get these and more that you may need with a Prescription)
 
@@ -132,7 +122,7 @@ These deliver Indian Groceries to you on the same day or within 1-2 days with a 
 - [ ] Vicks
 - [ ] Moov/Volini
 
-### Cosmetics 
+#### Cosmetics 
 (Get Your Makeup and Skincare)
 
 - [ ] Primer
@@ -165,7 +155,7 @@ These deliver Indian Groceries to you on the same day or within 1-2 days with a 
 - [ ] Scrunchies
 - [ ] Hair Pins
 
-### Miscellaneous Items
+#### Miscellaneous Items
 
 - [ ] Sewing Kit
 - [ ] Travel Adapter - for charging phones in transit countries
@@ -179,3 +169,13 @@ These deliver Indian Groceries to you on the same day or within 1-2 days with a 
 YES, you get a portable jetspray on Amazon.
 
 *Do not buy new laptops or phones from India. USA has better deals for students.*
+
+### Resources to order Groceries
+
+These deliver Indian Groceries to you on the same day or within 1-2 days with a minimum delivery fee. The prices of items may be a little higher than Indian grocery stores located offline in the States.
+
+[Kesar Grocery - Online Indian Grocery Store in USA](https://www.kesargrocery.com/trackreferrals/n82vnO)
+
+[Indian Marketplace for Authentic Groceries & Food | Quicklly](https://www.quicklly.com/online-indian-marketplace)
+
+[Apna Bazar Online - Order Online, Indian Grocery Delivery!](https://www.apnabazarstores.com/)
