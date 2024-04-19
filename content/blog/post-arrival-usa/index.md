@@ -62,9 +62,9 @@ These formals can be worn for career fairs or any formal events on campus and ca
 
 **Must**:
 
-- [ ] Pressure cooker - bring extra whistles, gaskets and rubber lockings
+- [ ] Pressure cooker - bring extra whistles, gaskets
 - [ ] Tawa
-- [ ] Kadhai - bring the granite surface one, they last long instead of non stick ones
+- [ ] Kadhai - bring the granite surface one, they last long 
 - [ ] Vegetable Chopper
 - [ ] Knives
 - [ ] Peeler
@@ -90,7 +90,7 @@ These formals can be worn for career fairs or any formal events on campus and ca
 - [ ] Toast Sandwich Mould - helps to make a quick evening snack
 - [ ] Apple Cutter - for quick packing into a tiffin
 - [ ] Silicone Coasters for utensils - keep hot utensils over these
-- [ ] Silicone Chapati Board - there are silicone ones available to avoid the wooden/stone one
+- [ ] Silicone Chapati Board - avoid the wooden/stone one
 - [ ] Idli Maker
 - [ ] Appam Maker
 
@@ -105,9 +105,9 @@ Please avoid any white colored spices or food items like sugar, salt, rice and f
 - [ ] Ready to Eat Maggi, Maggi pasta and Oats
 - [ ] Dry Fruits
 
-Resource to order Indian Groceries Online Delivered at Your US Home:
+### Resources to order Groceries
 
-These deliver your order on the same day or within 1-2 days with a minimum delivery fee. The prices of items may be a little higher than Indian grocery stores located offline in the States.
+These deliver Indian Groceries to you on the same day or within 1-2 days with a minimum delivery fee. The prices of items may be a little higher than Indian grocery stores located offline in the States.
 
 [Kesar Grocery - Online Indian Grocery Store in USA](https://www.kesargrocery.com/trackreferrals/n82vnO)
 
@@ -168,13 +168,14 @@ These deliver your order on the same day or within 1-2 days with a minimum deliv
 ### Miscellaneous Items
 
 - [ ] Sewing Kit
-- [ ] Travel Adapter - for charging phones in transit countries or landing country
+- [ ] Travel Adapter - for charging phones in transit countries
 - [ ] Flash Drive (Pen Drive)
 - [ ] Hard disk
 - [ ] Charging Cable
 - [ ] Stationery
 - [ ] Memory Card Reader
 - [ ] Presentation Pointer
-- [ ] A portable bidet (jetspray) YES, you get a portable jetspray on Amazon.
+- [ ] A portable bidet (jetspray) 
+YES, you get a portable jetspray on Amazon.
 
-Do not buy new laptops or phones from India. USA has better deals for students.
+*Do not buy new laptops or phones from India. USA has better deals for students.*
