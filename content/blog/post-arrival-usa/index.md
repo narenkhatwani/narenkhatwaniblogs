@@ -57,7 +57,8 @@ These formals can be worn for career fairs or any formal events on campus and ca
 - [ ] Lip Balm
 - [ ] Coconut oil
 
-#### Kitchen Items (Divided into Must and Optional)
+#### Kitchen Items 
+(Divided into Must and Optional)
 
 **Must**:
 
