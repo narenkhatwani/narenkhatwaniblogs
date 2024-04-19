@@ -6,7 +6,7 @@ date: 2023-10-27
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Unsplash**](https://static01.nyt.com/images/2017/07/05/multimedia/packing_animated/packing_animated-jumbo-v2.jpg)'
 
 authors:
   - admin
