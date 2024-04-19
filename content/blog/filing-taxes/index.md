@@ -33,7 +33,7 @@ In terms of F1 students, it can be both an on campus job or a summer internship 
 
 ### Why to file taxes on time ?
 
-Filing taxes on time avoids penalties, ensures timely refund processing, and helps maintain compliance with tax laws. Also, it is always advisable to be compliant with all tax laws as an F1 student has to go through a lot of form filings with USCIS which may be traced at a letter stage.
+Filing taxes on time avoids penalties, ensures timely refund processing, and helps maintain compliance with tax laws. Also, it is always advisable to be compliant with all tax laws as an F1 student has to go through a lot of form filings with USCIS which may be traced at a later stage.
 
 ### When and Where do you receive a W2 form ?
 
