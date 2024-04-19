@@ -28,6 +28,7 @@ marketing:
 
 # Site header
 header:
+  title: 'Blogs' 
   navbar:
     enable: true
     show_search: true
