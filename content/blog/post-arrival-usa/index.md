@@ -1,10 +1,23 @@
 ---
-title: "Pre Arrival to USA"
+title: Pre Arrival to USA
+summary: Packing for your international trip can be overwhelming, so here is a list of all the essential items you should pack
 date: 2024-04-18
-authors: [admin,Sakshi Agarwal]
-tags: [Travel, USA, Packing List]
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+
+authors:
+  - admin
+  - Sakshi Agarwal
+
+tags:
+  - Pre-Arrival
+  - Packing
 ---
 
+Welcome 👋
 Hey there folks 👋, I know packing for your international trip can be overwhelming, so here is a list of all the essential items you should pack
 
 ## Packing for the trip
