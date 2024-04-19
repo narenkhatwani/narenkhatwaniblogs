@@ -19,7 +19,9 @@ tags:
 
 The below space has been contributed by **Dattani & Partners CPA.**
 
-## Who gets a W2 form ?
+## Information about Filing Taxes
+
+### Who gets a W2 form ?
 
 A W-2 form is provided to employees by their employers. It is a tax document that reports the employee's annual wages and the amount of taxes withheld from their paycheck during the calendar year. Generally, any individual who received wages as an employee is eligible to receive a W-2 form.
 
@@ -29,11 +31,11 @@ In terms of F1 students, it can be both an on campus job or a summer internship 
 
 **Example:** If you do an on campus job at university X and a summer internship at a company Z, you’ll get a W2 from X university and Z organization.
 
-## Why to file taxes on time ?
+### Why to file taxes on time ?
 
 Filing taxes on time avoids penalties, ensures timely refund processing, and helps maintain compliance with tax laws. Also, it is always advisable to be compliant with all tax laws as an F1 student has to go through a lot of form filings with USCIS which may be traced at a letter stage.
 
-## When and Where do you receive a W2 form ?
+### When and Where do you receive a W2 form ?
 
 Employees typically receive their W-2 forms from their employers by the end of January. The exact date may vary, but employers are required by the Internal Revenue Service (IRS) to furnish W-2 forms to their employees on or before January 31st of each year.
 
@@ -41,7 +43,7 @@ Employers usually distribute W-2 forms to their employees through paper copy or 
 
 It is important for employees to ensure that their employer has their correct and up-to-date contact information, including mailing addresses and email addresses, to receive the W-2 form without any delays.
 
-## What is a W2 form ?
+### What is a W2 form ?
 
 A W-2 form, also known as the Wage and Tax Statement, is a document that employers in the United States are required to provide to their employees. It reports the employee's annual wages and the amount of taxes withheld from their paycheck for the calendar year.
 The following information is typically reported on a W-2 form:
@@ -59,6 +61,9 @@ After receiving the W-2 form, employees should take the following actions:
 10. Compare with Pay Stubs: Compare the information on the W-2 with your pay stubs or other records to ensure they match. If you notice any discrepancies, notify your employer promptly.
 11. File Tax Return with a CPA: Send a copy of your W-2 form to an expert CPA to complete your federal, state, and local income tax returns.
 12. Keep for Record keeping: Retain a copy of your W-2 form for your records. It is essential to keep this document for at least three years, as it may be needed for future reference or in case of an audit.
+
+
+## File your taxes
 
 ### Dattani & Partners, CPA
 
