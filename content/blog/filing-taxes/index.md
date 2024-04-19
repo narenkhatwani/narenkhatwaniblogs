@@ -1,6 +1,6 @@
 ---
 title: Filing Taxes
-summary: Packing for your international trip can be overwhelming, so here is a list of all the essential items you should pack
+summary: Its difficult to understand the tax system of a country when its your first year there. This blog helps your navigate that effectively
 date: 2024-04-19
 
 # Featured image
@@ -13,8 +13,8 @@ authors:
   - admin
 
 tags:
-  - Pre-Arrival
-  - Packing
+  - filing-taxes
+
 ---
 
 The below space has been contributed by **Dattani & Partners CPA.**
