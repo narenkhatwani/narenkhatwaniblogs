@@ -5,7 +5,7 @@ authors: [admin, Sakshi Agarwal]
 tags: [Travel, USA, Packing List]
 ---
 
-Welcome 👋 
+Hey there folks 👋, I know packing for your international trip can be overwhelming, so here is a list of all the essential items you should pack
 
 ## Packing for the trip
 
