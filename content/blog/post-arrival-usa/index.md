@@ -1,7 +1,7 @@
 ---
 title: "Pre Arrival to USA"
 date: 2024-04-18
-authors: [admin, Sakshi Agarwal]
+authors: [admin,Sakshi Agarwal]
 tags: [Travel, USA, Packing List]
 ---
 
