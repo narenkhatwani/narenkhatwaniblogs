@@ -60,14 +60,14 @@ After receiving the W-2 form, employees should take the following actions:
 11. File Tax Return with a CPA: Send a copy of your W-2 form to an expert CPA to complete your federal, state, and local income tax returns.
 12. Keep for Record keeping: Retain a copy of your W-2 form for your records. It is essential to keep this document for at least three years, as it may be needed for future reference or in case of an audit.
 
-### More about Dattani & Partners, CPA
+### Dattani & Partners, CPA
 
 Dattani & Partners CPA is a trusted accounting firm that specializes in assisting F1 visa holders with their tax-related needs. They offer comprehensive services for filing the 1040NR IRS tax return, as well as state tax returns. Whether you're a student, scholar, or international professional, they have the expertise to navigate the complexities of tax filing for non-resident aliens.
 
 In addition to tax preparation, Dattani & Partners CPA provides advisory services to help clients make informed financial decisions. They offer guidance on investments both in the United States and India, helping individuals maximize their financial growth and minimize tax liabilities.
 Customers appreciate the professionalism and quality of service provided by Dattani & Partners CPA. The firm is known for its reasonable prices, ensuring that clients receive excellent value for their money. The team at Dattani & Partners CPA is dedicated to delivering accurate, timely, and personalized solutions to meet each client's unique tax and financial needs.
 
-### To learn more about their services or get in touch, you can visit them below at
+### Get in touch
 
 **Website :** 
 
