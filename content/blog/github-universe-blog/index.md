@@ -18,7 +18,7 @@ tags:
 
 A huge thankyou to the folks at GitHub Education team. This wouldn't have been possible without the amazing Program Managers Juan Pa Flores, Matt Dyson, Ashwin Uppala and Luis Sanchez
 
-## What is GitHub Universe 2023 ?
+## What is GitHub Universe'23 ?
 GitHub Universe is the annual conference and event hosted by GitHub and a major event in the software development industry where GitHub showcases its latest features, updates, and announcements, as well as provides a platform for discussions and networking among developers, software engineers, project managers, and other professionals in the tech community.
 
 Universe brings together the world’s developers, enterprise leaders, and security professionals for two days of interactive sessions on AI,security, and the developer experience.
