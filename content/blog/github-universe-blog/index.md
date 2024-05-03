@@ -32,9 +32,9 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 ## 2023 GitHub Universe Agenda
 
-## T-1 Details
+## T-0 Details
 
-**T-1 Arrivals 🛬 | Monday**
+**T-0 Arrivals 🛬 | Monday**
 
 | **Time** |   **Activity**    |
 | :------: | :---------------: |
@@ -42,9 +42,9 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 
 
-## T-0 Details
+## T-1 Details
 
-**T-0 Campus Experts Workshops 🚩 | Tuesday**
+**T-1 Campus Experts Workshops 🚩 | Tuesday**
 
 | **Time** |       **Activity**        |
 | :------: | :-----------------------: |
@@ -120,10 +120,6 @@ Repping GCE at the Golden Gate Bridge
 
 Tourists Spotted
 ![GCEs](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/ggb_group.JPG?raw=true)
-
-
-
-
 
 ## Departures 🛫
 Saddest part of the trip was heading home but we all promised to stay in touch and collaborate on events in the upcoming years
