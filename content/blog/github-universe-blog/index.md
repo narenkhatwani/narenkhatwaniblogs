@@ -1,6 +1,6 @@
 ---
 title: GitHub Universe 2023
-summary: 
+summary: This blog is the summary of how I got to experience GitHub Universe 2023 via the GitHub Campus Experts Scholarship
 date: 2024-04-23
 
 # Featured image
@@ -16,6 +16,7 @@ tags:
   - Campus Expert
 ---
 
+A huge thankyou to the folks at GitHub Education team. This wouldn't have been possible without the amazing Program Managers Juan Pa Flores, Matt Dyson, Ashwin Uppala and Luis Sanchez
 
 ## What is GitHub Universe 2023 ?
 GitHub Universe is the annual conference and event hosted by GitHub and a major event in the software development industry where GitHub showcases its latest features, updates, and announcements, as well as provides a platform for discussions and networking among developers, software engineers, project managers, and other professionals in the tech community.
@@ -54,6 +55,7 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 #### T-0 Details
 
 ##### GitHub HQ Tour
+
 
 ##### Meeting Thomas Dohmke - GitHub CEO
 
