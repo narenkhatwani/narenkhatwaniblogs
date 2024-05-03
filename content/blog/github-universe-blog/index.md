@@ -55,10 +55,13 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 #### T-0 Details
 
 ##### GitHub HQ Tour
+![Workshops at GitHub HQ](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/github_hq.jpg?raw=true)
 
+![The amphitheatre at GitHub and me!!!](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/git_hq_me.JPG?raw=true)
 
 ##### Meeting Thomas Dohmke - GitHub CEO
 
+![Meeting Thomas Dohmke](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/meeting_ashtom.png?raw=true)
 
 #### T+1 GitHub Universe 🌃 | Wednesday
 
@@ -77,6 +80,7 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 #### Meeting Prof David Malan from CS 50
 
+![Meeting Prof David Malan from CS50](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/meeting_prof_malan.png?raw=true)
 
 ### We also got interviewed
 
@@ -95,12 +99,25 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 6:00 PM  |     Dinner + Goodbyes      |
 
 
-#### Group Picture 
+#### Group Pictures 
 
+#### GCE tourists
+No conference is complete without doing any touristy things
 
+Us at the Ghirardelli Square
+![GCEs](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/ghirardelli_square.JPG?raw=true)
+
+Repping GCE at the Golden Gate Bridge
+![GCEs](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/gate_gce.JPG?raw=true)
+
+Tourists Spotted
+![GCEs](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/ggb_group.JPG?raw=true)
 #### T+3 Goodbye! 🛫| Friday
+![The final group picture before bidding goodbye](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/group_picture.jpeg?raw=true)
+
+
+
 
 - Departures 🛫
-
-
+Saddest part of the trip was heading home but we all promised to stay in touch and collaborate on events in the upcoming years
 
