@@ -1,6 +1,6 @@
 ---
 title: GitHub Universe 2023
-summary: Packing for your international trip can be overwhelming, so here is a list of all the essential items you should pack
+summary: 
 date: 2024-04-23
 
 # Featured image
@@ -12,11 +12,24 @@ authors:
   - admin
 
 tags:
-  - GitHub
+  - GitHub Universe 2023
   - Campus Expert
 ---
 
-## 2023 GitHub Universe Agenda Agenda
+
+## What exactly is GitHub Universe 2023 ?
+GitHub Universe is the annual conference and event hosted by GitHub and a major event in the software development industry where GitHub showcases its latest features, updates, and announcements, as well as provides a platform for discussions and networking among developers, software engineers, project managers, and other professionals in the tech community.
+
+Universe brings together the world’s developers, enterprise leaders, and security professionals for two days of interactive sessions on AI,security, and the developer experience.
+
+- [Official Website](https://githubuniverse.com/)
+
+## How did I get selected ?
+
+
+
+
+## 2023 GitHub Universe Agenda
 
 ### T-1 Arrivals 🛬 | Monday
 
@@ -61,6 +74,10 @@ tags:
 #### Meeting Prof David Malan from CS 50
 
 
+#### We also got interviewed
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTP8J59p2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### T+2 GitHub Universe 🌃 | Thursday
 
 | **Time** |        **Activity**        |
@@ -81,5 +98,5 @@ tags:
 
 - Departures 🛫
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTP8J59p2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
