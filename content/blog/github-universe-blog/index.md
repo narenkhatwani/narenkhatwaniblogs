@@ -42,7 +42,7 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 
 
-#### T-0 Details
+## T-0 Details
 
 **T-0 Campus Experts Workshops 🚩 | Tuesday**
 
@@ -68,7 +68,7 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 ![Meeting Thomas Dohmke](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/meeting_ashtom.png?raw=true)
 
 
-##### T+1 Details
+## T+1 Details
 
 **T+1 GitHub Universe 🌃 | Wednesday**
 
@@ -86,11 +86,10 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 ![Meeting Prof David Malan from CS50](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/meeting_prof_malan.png?raw=true)
 
-### We also got interviewed
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTP8J59p2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## T+2 Details
 
-#### T+2 GitHub Universe 🌃 | Thursday
+**T+2 GitHub Universe 🌃 | Thursday**
 
 | **Time** |        **Activity**        |
 | :------: | :------------------------: |
@@ -102,6 +101,9 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 4:00 PM  |        Quest Review        |
 | 6:00 PM  |     Dinner + Goodbyes      |
 
+##### We also got interviewed
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wMTP8J59p2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 #### T+3 Goodbye! 🛫| Friday
 ![The final group picture before bidding goodbye](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/group_picture.jpeg?raw=true)
 
