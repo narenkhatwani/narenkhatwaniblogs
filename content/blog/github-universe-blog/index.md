@@ -32,13 +32,19 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 ## 2023 GitHub Universe Agenda
 
-#### T-1 Arrivals 🛬 | Monday
+## T-1 Details
+
+**T-1 Arrivals 🛬 | Monday**
 
 | **Time** |   **Activity**    |
 | :------: | :---------------: |
 | 7:00 PM  | Dinner            |
 
-#### T-0 Campus Experts Workshops 🚩 | Tuesday
+
+
+#### T-0 Details
+
+**T-0 Campus Experts Workshops 🚩 | Tuesday**
 
 | **Time** |       **Activity**        |
 | :------: | :-----------------------: |
@@ -52,8 +58,6 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 3:00 PM  |     Debrief + Quests      |
 | 4:00 PM  |         Free Time         |
 
-#### T-0 Details
-
 ##### GitHub HQ Tour
 ![Workshops at GitHub HQ](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/github_hq.jpg?raw=true)
 
@@ -63,7 +67,10 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 ![Meeting Thomas Dohmke](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/meeting_ashtom.png?raw=true)
 
-#### T+1 GitHub Universe 🌃 | Wednesday
+
+##### T+1 Details
+
+**T+1 GitHub Universe 🌃 | Wednesday**
 
 | **Time** |        **Activity**         |
 | :------: | :-------------------------: |
@@ -74,9 +81,6 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 2:00 PM  | Meetup with Martin Woodward |
 | 4:00 PM  |    Travel back to Hotel     |
 | 6:30 PM  |      Activity + Dinner      |
-
-
-##### T+1 Details
 
 #### Meeting Prof David Malan from CS 50
 
@@ -98,8 +102,10 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 4:00 PM  |        Quest Review        |
 | 6:00 PM  |     Dinner + Goodbyes      |
 
+#### T+3 Goodbye! 🛫| Friday
+![The final group picture before bidding goodbye](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/group_picture.jpeg?raw=true)
 
-#### Group Pictures 
+## Group Pictures 
 
 #### GCE tourists
 No conference is complete without doing any touristy things
@@ -112,12 +118,11 @@ Repping GCE at the Golden Gate Bridge
 
 Tourists Spotted
 ![GCEs](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/ggb_group.JPG?raw=true)
-#### T+3 Goodbye! 🛫| Friday
-![The final group picture before bidding goodbye](https://github.com/narenkhatwani/gce-events-details/blob/main/github_universe_23/group_picture.jpeg?raw=true)
 
 
 
 
-- Departures 🛫
+
+## Departures 🛫
 Saddest part of the trip was heading home but we all promised to stay in touch and collaborate on events in the upcoming years
 
