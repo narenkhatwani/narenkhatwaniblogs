@@ -31,13 +31,13 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 ## 2023 GitHub Universe Agenda
 
-### T-1 Arrivals 🛬 | Monday
+#### T-1 Arrivals 🛬 | Monday
 
 | **Time** |   **Activity**    |
 | :------: | :---------------: |
 | 7:00 PM  | Dinner (Optional) |
 
-### T-0 Campus Experts Workshops 🚩 | Tuesday
+#### T-0 Campus Experts Workshops 🚩 | Tuesday
 
 | **Time** |       **Activity**        |
 | :------: | :-----------------------: |
@@ -51,12 +51,12 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 3:00 PM  |     Debrief + Quests      |
 | 4:00 PM  |         Free Time         |
 
-### T-0 Details
+#### T-0 Details
 
-#### Meeting Thomas Dohmke - GitHub CEO
+##### Meeting Thomas Dohmke - GitHub CEO
 
 
-### T+1 GitHub Universe 🌃 | Wednesday
+#### T+1 GitHub Universe 🌃 | Wednesday
 
 | **Time** |        **Activity**         |
 | :------: | :-------------------------: |
@@ -69,16 +69,16 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 | 6:30 PM  |      Activity + Dinner      |
 
 
-### T+1 Details
+##### T+1 Details
 
 #### Meeting Prof David Malan from CS 50
 
 
-#### We also got interviewed
+### We also got interviewed
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wMTP8J59p2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### T+2 GitHub Universe 🌃 | Thursday
+#### T+2 GitHub Universe 🌃 | Thursday
 
 | **Time** |        **Activity**        |
 | :------: | :------------------------: |
@@ -94,7 +94,7 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 #### Group Picture 
 
 
-### T+3 Goodbye! 🛫| Friday
+#### T+3 Goodbye! 🛫| Friday
 
 - Departures 🛫
 
