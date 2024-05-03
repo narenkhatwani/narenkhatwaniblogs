@@ -16,4 +16,5 @@ tags:
   - Campus Expert
 ---
 
-![GitHub Universe](https://youtu.be/wMTP8J59p2M)
+[![Watch the video](https://img.youtube.com/vi/wMTP8J59p2M/maxresdefault.jpg)](https://youtu.be/wMTP8J59p2M)
+
