@@ -36,7 +36,7 @@ Universe brings together the world’s developers, enterprise leaders, and secur
 
 | **Time** |   **Activity**    |
 | :------: | :---------------: |
-| 7:00 PM  | Dinner (Optional) |
+| 7:00 PM  | Dinner            |
 
 #### T-0 Campus Experts Workshops 🚩 | Tuesday
 
