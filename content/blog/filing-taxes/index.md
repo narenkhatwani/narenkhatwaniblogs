@@ -16,7 +16,7 @@ tags:
   - filing-taxes
 
 ---
-
+<div style="text-align: justify;">
 The below space has been contributed by **Dattani & Partners CPA.**
 
 ## Information about Filing Taxes
@@ -71,6 +71,7 @@ Dattani & Partners CPA is a trusted accounting firm that specializes in assistin
 
 In addition to tax preparation, Dattani & Partners CPA provides advisory services to help clients make informed financial decisions. They offer guidance on investments both in the United States and India, helping individuals maximize their financial growth and minimize tax liabilities.
 Customers appreciate the professionalism and quality of service provided by Dattani & Partners CPA. The firm is known for its reasonable prices, ensuring that clients receive excellent value for their money. The team at Dattani & Partners CPA is dedicated to delivering accurate, timely, and personalized solutions to meet each client's unique tax and financial needs.
+</div>
 
 ### Get in touch
 
@@ -89,3 +90,4 @@ https://dpcpallc.com/
 **Check what customers say about them :** 
 
 [Reviews](https://www.google.com/maps/place/Dattani+%26+Partners,+CPA/@40.732781,-74.0663038,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2578fa9503f9b:0x3d9b00f35acce63d!8m2!3d40.732781!4d-74.0663038!16s%2Fg%2F11sf0_gnnt?entry=ttu)
+
