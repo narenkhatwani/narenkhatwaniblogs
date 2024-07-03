@@ -29,7 +29,7 @@ Here is a compilation of all the questions,
 
 [About NJIT](https://www.notion.so/About-NJIT-2f751209316a4cefb762394f35ac60a4?pvs=21)
 
-[Packing for the trip](https://www.notion.so/Packing-for-the-trip-0f141eb69bea4af68c4f70760e28809c?pvs=21)
+[Packing for the trip](https://narenkhatwaniblogs.com/blog/post-arrival-usa/#packing-for-the-trip)
 
 [Forex Card and Other Important Documents](https://www.notion.so/Forex-Card-and-Other-Important-Documents-446f0c533efc47f293af93ed89d8c652?pvs=21)
 
@@ -53,7 +53,7 @@ Here is a compilation of all the questions,
 
 ## Finances
 
-[Filing Taxes](https://www.notion.so/Filing-Taxes-97aba95077694f64a73b0cda3a38aeff?pvs=21)
+[Filing Taxes](https://narenkhatwaniblogs.com/blog/filing-taxes/)
 
 ## Other Documents (to be added)
 
@@ -69,7 +69,7 @@ In case you find some errors or some updates to the existing information, let me
 
 ## Team behind this resource:
 
-Naren Khatwani - PhD Student @ NJIT
+Naren Khatwani - Data Science PhD Student @ NJIT
 
 Bharat Ramesh - Engineering Manager @ Forbes
 
