@@ -1,6 +1,6 @@
 ---
 title: About NJIT
-summary: Following are a few things about NJIT. It has given me a lot of opportunities
+summary: NJIT has given me a lot of opportunities in terms of academia and industry experience. I also got to make a lot of friends and learn about their experiences.
 date: 2024-05-12
 
 # Featured image
@@ -20,12 +20,18 @@ tags:
 ---
 <div style="text-align: justify;">
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GAq6SAth_Xo?si=o1pWn7QDlqQXnmgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
 ### How is NJIT ?
 
 Personally for me its been a great journey so far, I have had some great experiences. The diversity here is amazing and offers a lot of different perspectives on things which might not have experienced before. You are exposed to some world class technologies and also get to work with it hands on.
+
+</div>
+
+<div style="text-align: justify;">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GAq6SAth_Xo?si=o1pWn7QDlqQXnmgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 
 ### How are the courses/professors?
 
@@ -46,3 +52,5 @@ During my time, I had quite a lot of seniors helping me out and I am grateful to
 We all know it’s difficult to just switch your country of residence and try to settle down here all of a sudden.
 
 Also its free, but you can always send me sweets/chocolates after you have settled down 😂
+
+</div>
