@@ -49,7 +49,7 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: "www.narenkhatwani.com"
+website: naren-khatwani
 
 _build:
   render: always
