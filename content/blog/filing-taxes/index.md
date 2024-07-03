@@ -10,7 +10,7 @@ image:
 
 authors:
   - Hardik Dattani
-  - admin
+  - Naren Khatwani
 
 tags:
   - filing-taxes

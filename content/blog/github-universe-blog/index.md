@@ -9,7 +9,7 @@ image:
   caption: 'Image credit: [**Google**](https://google.com)'
 
 authors:
-  - admin
+  - Naren Khatwani
 
 tags:
   - GitHub Universe 2023

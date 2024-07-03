@@ -10,7 +10,7 @@ image:
 
 authors:
   - Sakshi Agarwal
-  - admin
+
 
 tags:
   - graduate
