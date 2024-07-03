@@ -18,7 +18,7 @@ tags:
   - faq
 
 ---
-
+<div class="justified">
 Hey 👋 there, 
 
 Following are some of the frequently asked questions to me about NJIT or other universities in general. I came to know that I was answering the same questions over and over again. So I thought of writing it all down and collaborating with a few juniors to add some information about undergraduate degree too.
@@ -78,6 +78,8 @@ Vanshika Agrawal - Undergraduate Student @ NJIT
 Sreekaree Chityala - Undergraduate Student @ NJIT
 
 Sakshi Agarwal - Graduate Student @ NYU 
+
+</div>
 
 ## Reach out to us / Schedule a meeting:
 
