@@ -11,6 +11,9 @@ image:
 authors:
   - naren-khatwani
 
+authorURLs:
+  - "/authors/naren-khatwani/"
+
 tags:
   - graduate
   - undergradiate
