@@ -1,7 +1,7 @@
 ---
 title: FAQs regarding Graduate and Undergraduate studies
 summary: Following are some of the frequently asked questions to me about NJIT or other universities in general
-date: 2024-07-19
+date: 2024-05-19
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
