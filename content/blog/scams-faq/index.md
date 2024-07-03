@@ -1,7 +1,7 @@
 ---
-title: Scams FAQ
+title: Protect Yourself from Common Scams
 summary: As an international student, it's crucial to educate yourself about common scams that you might encounter. Being aware of these scams and knowing how to avoid them can protect you from potential financial and personal harm.
-date: 2023-09-30
+date: 2024-03-14
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -10,6 +10,7 @@ image:
 
 authors:
   - Sakshi Agarwal
+  - admin
 
 tags:
   - graduate
