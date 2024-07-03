@@ -27,7 +27,7 @@ Here is a compilation of all the questions,
 
 ## Pre and Post Arrival to USA
 
-[About NJIT](https://www.notion.so/About-NJIT-2f751209316a4cefb762394f35ac60a4?pvs=21)
+[About NJIT](https://narenkhatwaniblogs.com/blog/about-njit/)
 
 [Packing for the trip](https://narenkhatwaniblogs.com/blog/post-arrival-usa/#packing-for-the-trip)
 
