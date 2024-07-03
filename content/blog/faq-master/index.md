@@ -18,7 +18,7 @@ tags:
   - faq
 
 ---
-<div class="justified">
+<div style="text-align: justify;">
 Hey 👋 there, 
 
 Following are some of the frequently asked questions to me about NJIT or other universities in general. I came to know that I was answering the same questions over and over again. So I thought of writing it all down and collaborating with a few juniors to add some information about undergraduate degree too.
