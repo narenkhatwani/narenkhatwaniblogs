@@ -6,7 +6,7 @@ sections:
   - block: resume-biography
     content:
       # The user's folder name in content/authors/
-      username: naren-khatwani
+      username: admin
     design:
       spacing:
         padding: [0, 0, 0, 0]

@@ -9,10 +9,7 @@ image:
   caption: 'Image credit: [**Google**](https://google.com)'
 
 authors:
-  - naren-khatwani
-
-authorURLs:
-  - "/authors/naren-khatwani/"
+  - Naren Khatwani
 
 tags:
   - graduate
