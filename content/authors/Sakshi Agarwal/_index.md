@@ -2,30 +2,18 @@
 title: "Sakshi Agarwal"
 first_name: Sakshi
 last_name: Agarwal
-role: Data Science Ph.D Student and Researcher
+role: Graduate Student
 organizations:
-  - name: New Jersey Institute of Technology
-    url: https://www.njit.edu/
-bio: My research interests include distributed robotics, mobile computing, and programmable matter.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:narenkhatwani.work@gmail.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/KhatwaniNaren
-  - icon: brands/instagram
-    url: https://www.instagram.com/naren_khatwani007/
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/narenkhatwani/
+  - name: New York University
+    url: https://www.nyu.edu/
+bio: 
 highlight_name: true
-website: "https://www.narenkhatwani.com"
+website: "https://www.linkedin.com/in/sakshiagarwal99/"
 _build:
   render: always
   list: always
 ---
 
-Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research passion lies in the field of Ontologies, with a keen interest in Massive Scale Analytics. Alongside my research, I am a Teaching Assistant for Advanced Database System Design.
+I'm majoring in Management of Technology at NYU, combining my love for management and technology. My passion for solving problems and my storytelling abilities made me choose Data Analytics as my specialization. I'm currently neck-deep in homework for my Machine Learning class, but I'm still having fun learning.
 
-I write blogs in my past time to help out incoming graduate students. Fortunately, I have had great mentors and seniors during my academic journey who have always taught me to help out fellow juniors.
-
-The following content is free to access and I intend to always keep it that way.
+I am a data analyst with a passion for solving real-world problems. I am looking for a role where I can use my skills and experience to help a company make better decisions and achieve its goals. I'm always eager to learn new skills and take on new challenges. Let's connect and explore opportunities!
