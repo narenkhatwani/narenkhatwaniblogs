@@ -1,6 +1,6 @@
 ---
 title: The Art of Securing an On Campus Position At NJIT
-summary: 
+summary: lorem ipsum
 date: 2024-03-14
 
 # Featured image
