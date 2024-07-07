@@ -1,14 +1,15 @@
 ---
-title: On campus 
-summary: This blog is the summary of how I got to experience GitHub Universe 2023 via the GitHub Campus Experts Scholarship
-date: 2024-04-23
+title: The Art of Securing an On Campus Job at NJIT 
+summary: This blog is the summary of how I think one can secure an on campus position at NJIT
+date: 2024-05-10
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Google**](https://google.com)'
+  caption: 'Image credit: [**DALL-E**](https://chatgpt.com)'
 
 authors:
+  - Sreekaree Chityala
   - Naren Khatwani
 
 tags:
