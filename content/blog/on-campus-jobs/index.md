@@ -14,10 +14,11 @@ authors:
 
 tags:
   - graduate
-  - undergradiate
+  - undergraduate
 
 ---
 <div style="text-align: justify;">
+
 
 ### How to apply ?
 
