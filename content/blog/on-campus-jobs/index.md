@@ -10,7 +10,7 @@ image:
 
 authors:
   - Sreekaree Chityala
-  - admin
+  - Naren Khatwani
 
 tags:
   - graduate
