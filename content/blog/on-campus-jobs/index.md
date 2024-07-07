@@ -9,8 +9,7 @@ image:
   caption: 'Image credit: [**OpenAI's DALL-E**](https://chatgpt.com/)'
 
 authors:
-  - Sreekaree Chityala
-  - Naren Khatwani
+
 
 tags:
   - graduate
