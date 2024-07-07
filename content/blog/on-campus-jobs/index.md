@@ -1,6 +1,6 @@
 ---
 title: The Art of Securing an On Campus Job at NJIT 
-summary: This blog is the summary of how I think one can secure an on campus position at NJIT
+summary: This blog is the summary of how we think one can secure an on campus position at NJIT
 date: 2024-05-10
 
 # Featured image
