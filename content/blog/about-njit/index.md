@@ -13,7 +13,7 @@ authors:
 
 tags:
   - graduate
-  - undergradiate
+  - undergraduate
   - faq
   - njit
 
