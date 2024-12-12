@@ -65,14 +65,14 @@ The following content is free to access and I intend to always keep it that way.
 
 I also run a weekly newsletter **Naren's Neural Narrative**. Subscribe below, yay!!
 
-<div style="text-align: center; font-family: Arial, sans-serif;">
+<div style="text-align: center; font-family: Arial, sans-serif; margin-bottom: 0;">
   <form
     action="https://buttondown.com/api/emails/embed-subscribe/narenkhatwani"
     method="post"
     target="popupwindow"
     onsubmit="window.open('https://buttondown.com/narenkhatwani', 'popupwindow')"
     class="embeddable-buttondown-form"
-    style="text-align: center;"
+    style="text-align: center; margin-bottom: 0;"
   >
     <label for="bd-email" style="font-size: 16px; font-weight: bold; display: block; margin-bottom: 10px;">
       Enter your email
@@ -89,7 +89,7 @@ I also run a weekly newsletter **Naren's Neural Narrative**. Subscribe below, ya
       value="Subscribe"
       style="padding: 10px 20px; background-color: white; border: 1px solid black; border-radius: 5px; cursor: pointer;"
     />
-    <p style="margin-top: 15px; font-size: 12px; color: gray;">
+    <p style="margin-top: 10px; font-size: 12px; color: gray; margin-bottom: 0;">
       <a href="https://buttondown.com/refer/narenkhatwani" target="_blank" style="text-decoration: none; color: black;">
         Powered by Buttondown.
       </a>
