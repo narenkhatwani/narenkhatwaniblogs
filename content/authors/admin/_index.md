@@ -63,8 +63,7 @@ I write blogs in my past time to help out incoming graduate students. Fortunatel
 
 The following content is free to access and I intend to always keep it that way. 
 
-### Yay, Subscribe to my newsletter
-### Naren's Neural Narrative 
+I also run a weekly newsletter **Naren's Neural Narrative**. Subscribe below, yay!!
 
 <div style="text-align: center; font-family: Arial, sans-serif;">
   <form
@@ -73,7 +72,7 @@ The following content is free to access and I intend to always keep it that way.
     target="popupwindow"
     onsubmit="window.open('https://buttondown.com/narenkhatwani', 'popupwindow')"
     class="embeddable-buttondown-form"
-    style="display: inline-block; padding: 20px; border: 1px solid black; border-radius: 10px; max-width: 300px; text-align: center;"
+    style="text-align: center;"
   >
     <label for="bd-email" style="font-size: 16px; font-weight: bold; display: block; margin-bottom: 10px;">
       Enter your email
@@ -82,7 +81,7 @@ The following content is free to access and I intend to always keep it that way.
       type="email"
       name="email"
       id="bd-email"
-      style="width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid black; border-radius: 5px;"
+      style="width: 90%; height: 30px; padding: 5px 10px; margin-bottom: 15px; border: 1px solid black; border-radius: 5px;"
       required
     />
     <input
