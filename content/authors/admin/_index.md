@@ -63,17 +63,34 @@ I write blogs in my past time to help out incoming graduate students. Fortunatel
 
 The following content is free to access and I intend to always keep it that way. 
 
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/narenkhatwani"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.com/narenkhatwani', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Subscribe" />
-  <p>
-    <a href="https://buttondown.com/refer/narenkhatwani" target="_blank">Powered by Buttondown.</a>
-  </p>
-</form>
+<div style="text-align: center; font-family: Arial, sans-serif;">
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/narenkhatwani"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.com/narenkhatwani', 'popupwindow')"
+    class="embeddable-buttondown-form"
+    style="display: inline-block; padding: 20px; border: 1px solid black; border-radius: 10px; max-width: 300px; text-align: center;"
+  >
+    <label for="bd-email" style="font-size: 16px; font-weight: bold; display: block; margin-bottom: 10px;">
+      Enter your email
+    </label>
+    <input
+      type="email"
+      name="email"
+      id="bd-email"
+      style="width: 100%; padding: 10px; margin-bottom: 15px; border: 1px solid black; border-radius: 5px;"
+      required
+    />
+    <input
+      type="submit"
+      value="Subscribe"
+      style="padding: 10px 20px; background-color: white; border: 1px solid black; border-radius: 5px; cursor: pointer;"
+    />
+    <p style="margin-top: 15px; font-size: 12px; color: gray;">
+      <a href="https://buttondown.com/refer/narenkhatwani" target="_blank" style="text-decoration: none; color: black;">
+        Powered by Buttondown.
+      </a>
+    </p>
+  </form>
+</div>
