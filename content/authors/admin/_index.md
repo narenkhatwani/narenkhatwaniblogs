@@ -62,3 +62,18 @@ Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Te
 I write blogs in my past time to help out incoming graduate students. Fortunately I have had great mentors and seniors during my academic journey and they have always taught me to be help out fellow juniors. 
 
 The following content is free to access and I intend to always keep it that way. 
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/narenkhatwani"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/narenkhatwani', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+  <p>
+    <a href="https://buttondown.com/refer/narenkhatwani" target="_blank">Powered by Buttondown.</a>
+  </p>
+</form>
