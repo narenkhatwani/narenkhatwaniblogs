@@ -63,6 +63,9 @@ I write blogs in my past time to help out incoming graduate students. Fortunatel
 
 The following content is free to access and I intend to always keep it that way. 
 
+### Yay, Subscribe to my newsletter
+### Naren's Neural Narrative 
+
 <div style="text-align: center; font-family: Arial, sans-serif;">
   <form
     action="https://buttondown.com/api/emails/embed-subscribe/narenkhatwani"
