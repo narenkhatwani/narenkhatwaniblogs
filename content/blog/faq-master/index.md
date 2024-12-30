@@ -29,7 +29,7 @@ Here is a compilation of all the questions,
 
 [About NJIT](https://narenkhatwaniblogs.com/blog/about-njit/)
 
-[Packing for the trip](https://narenkhatwaniblogs.com/blog/post-arrival-usa/#packing-for-the-trip)
+[Packing for the trip](https://narenkhatwaniblogs.com/blog/pre-arrival-usa/)
 
 [Forex Card and Other Important Documents](https://www.notion.so/Forex-Card-and-Other-Important-Documents-446f0c533efc47f293af93ed89d8c652?pvs=21)
 
