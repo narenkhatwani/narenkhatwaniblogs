@@ -17,4 +17,18 @@ tags:
 
 ---
 <div style="text-align: justify;">
+
+# Bank Account
+
+# Credit Card
+
+# Sim Card
+
+# Laptop and Mobile Phone
+
+# Explore the area around
+
+# Download I-94
+
+
 <div>
