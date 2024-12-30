@@ -1,5 +1,5 @@
 ---
-title: After landing usa
+title: After Landing in the USA for International Students
 summary: A few things you should get done after landing in  USA
 date: 2024-05-19
 
@@ -11,14 +11,13 @@ image:
 authors:
   - Naren Khatwani
 
-
 tags:
   - tips and tricks
 
 ---
 <div style="text-align: justify;">
 
-# After Landing in the USA for International Students
+A few things you should get done after landing in the USA as an International Student
 
 ## Bank Account
 - **Why it's important**: Open a bank account within the first few days to manage your finances.
