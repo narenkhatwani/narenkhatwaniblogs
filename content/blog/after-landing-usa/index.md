@@ -18,88 +18,98 @@ tags:
 ---
 <div style="text-align: justify;">
 
+# After Landing in the USA for International Students
+
 ## Bank Account
-Within the first few days you should get a Bank Account so that you can take care of finances from your home country
+- **Why it's important**: Open a bank account within the first few days to manage your finances.
+- **Recommended Banks**: Chase and Bank of America.
 
-Some Banks which are well known are Chase and Bank of America
+### Documents Required:
+- Lease agreement (as proof of address)
+- I-20
+- Passport
 
-Since you are an international student you should carry the lease agreement (as address proof), i20 and passport in order to open a new account.
+### Useful Links for Offers:
+- [Chase Bank Referral](https://accounts.chase.com/consumer/raf/online/rafoffers?key=2970058311&src=N)
 
-Some links for offers to open a new account:
-https://accounts.chase.com/consumer/raf/online/rafoffers?key=2970058311&src=N
+### Money Transfer:
+- Use **Zelle** for sending and receiving money via your bank app.
+- [Zelle Tutorial](https://www.youtube.com/watch?v=SP8mScEx0X8)
 
-Just like sending money via wallets, here you can use Zelle to send and receive money via your bank app. 
-
-You can watch this tutorial for more information:
-
-https://www.youtube.com/watch?v=SP8mScEx0X8
+---
 
 ## Credit Card
+- **Why it's important**: Building a credit history is crucial for future needs like purchasing a car.
+- Always pay your balance in full each month to avoid debt.
 
-Its better to get a credit card in US to build your credit history for future. The credit history is important if you want to purchase a car. Additionally, you don’t get any interest in banks in US per annum and these credit cards have a decent amount of offers.
+### Student Credit Cards (No SSN Needed):
+- [Deserve Student Credit Card](https://deserve.com/5393B)
 
-You should use credit cards responsibly and always pay in full by the end of the month to avoid being under any amount of debt.
+### Popular Credit Card Options:
+1. [Discover Credit Card](https://refer.discover.com/s/narenkhatwani6?advocate.partner_share_id=8744576478)
+2. [Chase Sapphire Preferred](https://www.referyourchasecard.com/6m/OSNCS3BGGH)
+3. [Amex Platinum](https://americanexpress.com/en-us/referral/NAREnKOS85?XL=MIMCP)
+4. [Amex Gold](https://americanexpress.com/en-us/referral/NAREnKR2wi?XL=MIMCP)
+5. [Capital One QuickSilver](https://capital.one/3X5rxSk)
+6. [Amazon Prime Visa](https://www.amazon.com/dp/BT00LN946S?externalReferenceId=12ee6648-d220-46df-9e67-75ee24353469)
+7. [Amex Delta Sky Miles Gold](https://americanexpress.com/en-us/referral/NAREnKiQvr?XL=MIMCP)
 
-When you land in US you can get a student credit cards which doesn’t need a SSN like Deserve and then build a credit history based off of that. Later when you get a SSN you can move to some premium credit cards.
+### Tips:
+- Start with a basic student card.
+- Move to premium cards after building a credit score and account age (>1 year).
 
-**Deserve (No SSN needed)**
-
-[Deserve Student Credit Card](https://deserve.com/5393B)
-
-**Discover**
-
-[Checking Referral Status](https://refer.discover.com/s/narenkhatwani6?advocate.partner_share_id=8744576478)
-
-**Chase Sapphire Preferred**
-
-[Chase Sapphire Preferred Credit Card | Chase.com](https://www.referyourchasecard.com/6m/OSNCS3BGGH)
-
-**Amex Platinum**
-
-[Refer a Friend. Earn Rewards.](https://americanexpress.com/en-us/referral/NAREnKOS85?XL=MIMCP)
-
-**Amex Gold**
-
-[Refer a Friend. Earn Rewards.](https://americanexpress.com/en-us/referral/NAREnKR2wi?XL=MIMCP)
-
-**Capital One QuickSilver**
-
-[Capital One](https://capital.one/3X5rxSk)
-
-**Amazon Signature Card**
-
-[Amazon.com: Prime Visa](https://www.amazon.com/dp/BT00LN946S?externalReferenceId=12ee6648-d220-46df-9e67-75ee24353469)
-
-**Amex Delta Sky Miles Gold Card**
-
-[Refer a Friend. Earn Rewards.](https://americanexpress.com/en-us/referral/NAREnKiQvr?XL=MIMCP)
-
-**Note:**
-
-Please start off with a basic student card and move onto some premium cards after a while, because you need a good credit score and >1 year of account age
+---
 
 ## Sim Card
-- Major service providers are Mint Mobile, AT&T, Verizon, T-Mobile and Sprint.
-- Consider prepaid plans
-- Make sure you get good coverage in the area where you live.
+- **Major Providers**: Mint Mobile, AT&T, Verizon, T-Mobile, and Sprint.
+- Consider prepaid plans for affordability.
+- Check for good coverage in your area.
 
-If you get an option to be a part of the family plan with other students, please consider that as thats a viable and a great option too
+### Recommendation:
+- **Mint Mobile**: Affordable and reliable in New Jersey and New York.
+- [Check Compatibility](https://www.mintmobile.com/byop/)
+- Referral: Use [this link](http://fbuy.me/sltgj) for a plan at $15/month for the first three months.
 
-I personally use and recommend Mint Mobile, as its student pocket friendly and has a good coverage (in New Jersey and New York as thats my main residency area). Please ask your seniors to recommend service providers if your universities is in any other state, they’ll be able to help you better
+---
 
-You can use my referral link below and any plan for first three months at 15$/month
-
-[](http://fbuy.me/sltgj)
-
-### Check if your phone is compatible with the network bands in US
-
-https://www.mintmobile.com/byop/
 ## Laptop and Mobile Phone
+- **Advice**: Avoid buying new laptops or smartphones before coming to the US unless absolutely necessary.
+- **Why**: Student discounts and deals are widely available in the US.
 
+### Smartphones:
+- **Best time to buy**: During the iPhone launch event (second week of September).
+- Benefit: Get the latest technology or discounted older models.
 
-## Explore the area around
+### Laptops:
+- Common Choice for CS Students: **MacBook**.
+- For Gaming or AR/VR: Choose a gaming laptop with a GPU.
+- Stores for Deals: BestBuy, Walmart, Target, or Amazon.
+  - **Tip**: Use Walmart’s price match feature and explore Back-to-School discounts at Target.
+
+---
+
+## Explore the Area Around
+- Get familiar with local transportation, grocery stores, and other essential services near your residence.
+
+---
 
 ## Download I-94
+- Some universities require the I-94 as proof of your presence in the US.
+
+### Steps to Download:
+1. Visit the [Department of Homeland Security’s I-94 Portal](https://i94.cbp.dhs.gov/I94/#/home).
+2. Click **Get Most Recent I-94**.
+3. Agree to the terms and conditions.
+4. Enter your details:
+   - Name
+   - Birthdate
+   - Passport Number
+   - Country of Citizenship
+5. Click **Enter**.
+6. Print or export your I-94 in the desired format.
+
+### Upload:
+- Submit the I-94 to your university’s portal.
 
 
 <div>
