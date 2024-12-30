@@ -1,6 +1,6 @@
 ---
-title: After Landing in the USA for International Students
-summary: A few things you should get done after landing in  USA
+title: After Landing in the USA as an International Student
+summary: A few things you should get done/ add to your to do list after landing in USA
 date: 2024-05-19
 
 # Featured image
