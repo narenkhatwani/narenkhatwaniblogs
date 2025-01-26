@@ -1,5 +1,5 @@
 ---
-title: summer intrnship
+title: summer internship
 summary: summer internship
 date: 2024-05-19
 
