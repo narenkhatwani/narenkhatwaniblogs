@@ -31,25 +31,25 @@ Here is a compilation of all the questions,
 
 [Packing for the trip](https://narenkhatwaniblogs.com/blog/pre-arrival-usa/)
 
-[Forex Card and Other Important Documents](https://www.notion.so/Forex-Card-and-Other-Important-Documents-446f0c533efc47f293af93ed89d8c652?pvs=21)
+[Forex Card and Other Important Documents](https://narenkhatwaniblogs.com/blog/forex-card/)
 
-[After landing in USA](https://www.notion.so/After-landing-in-USA-c80d18d784b3409fa68f797a1eed6169?pvs=21)
+[After landing in USA](https://narenkhatwaniblogs.com/blog/after-landing-usa/)
 
-[Flight Travel Tips](https://www.notion.so/Flight-Travel-Tips-49416eed4acc4853863094228248a16b?pvs=21)
+[Flight Travel Tips]()
 
-[Apply for On Campus Jobs](https://www.notion.so/Apply-for-On-Campus-Jobs-3ce80deb92d54c029c075c9a24274d95?pvs=21)
+[Apply for On Campus Jobs](https://narenkhatwaniblogs.com/blog/on-campus-jobs/)
 
-[Avoiding Common Scams](https://www.notion.so/Avoiding-Common-Scams-deb0882070814b9e8462d4a6688e48f1?pvs=21)
+[Avoiding Common Scams](https://narenkhatwaniblogs.com/blog/scams-faq/)
 
 ## Internship and Full Time Applications (to be added)
 
-[Applying for Internships](https://www.notion.so/Applying-for-Internships-1188c9b28f5d4232bcee583595d2b86b?pvs=21)
+[Applying for Internships]()
 
-[Applying for Full Time Jobs](https://www.notion.so/Applying-for-Full-Time-Jobs-1c1ba5f6f243405d9960561d82190137?pvs=21)
+[Applying for Full Time Jobs]()
 
-[Resume Format](https://www.notion.so/Resume-Format-899cae7ace8840b5ae25b688f2439f77?pvs=21)
+[Resume Format]()
 
-[Cold Emailing People](https://www.notion.so/Cold-Emailing-People-ca0356ff84b64dcf8a8cdad7fe189227?pvs=21)
+[Cold Emailing People]()
 
 ## Finances
 
@@ -57,13 +57,9 @@ Here is a compilation of all the questions,
 
 ## Other Documents (to be added)
 
-[Applying for a US Drivers License](https://www.notion.so/Applying-for-a-US-Drivers-License-639c392d16ed4d07add4cd6996044abe?pvs=21)
+[Applying for a US Drivers License]()
 
 Apart from the above mentioned resources, make sure to explore and have a little fun on weekends. You are here to study/ focus on your academics but a little fun trip to a nearby city or park won’t hamper it.
-
-You can refer this small guide:
-
-https://www.instagram.com/naren_khatwani007/guide/ny-nj/17856886769687405/
 
 In case you find some errors or some updates to the existing information, let me know how can I rectify it.
 

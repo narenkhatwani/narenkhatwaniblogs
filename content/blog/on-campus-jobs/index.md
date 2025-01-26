@@ -44,12 +44,6 @@ tags:
 - **Get Recommendations from Graduating Students:** Ask graduating students to refer you or put in a good word for the position they are leaving.
 
 - **Explore Other Departments:** Don’t limit your job search to your own department. Other departments may have openings that suit your profile.
-- **Viewing Fees:** If someone asks you to pay a fee (e.g., $100) to view a listing, be cautious. No realtor or broker is allowed to charge you a fee before showing you a property. This is a red flag.
-- **Unavailable Landlords:** Be wary of landlords who claim to be out of town and cannot show you the apartment in person or via video call. They might send you videos and expect you to sign the lease. This is a scam. Always insist on seeing the property before making any commitments.
-- **Verified Listings:** It's a good idea to look for accommodations that have been previously rented by students. This way, you can verify the identity of the broker or realtor, preventing you from sending a deposit to a scammer.
-- **Arrival Timing:** If you're unsure about the trustworthiness of a realtor, consider arriving a few days before your orientation. You can stay at an Airbnb or with someone you know and look for apartments in person. This reduces the risk of falling for a scam.
-- **Overlapping Leases:** While not a scam, be aware of overlapping leases where landlords mix up move-out and move-in dates. This is illegal, and if it happens to you, ask your realtor for reasonable accommodation until your move-in date. Don’t let anyone take advantage of you!
-
 
 ### Things To Avoid
 
