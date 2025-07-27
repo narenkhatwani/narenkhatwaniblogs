@@ -6,7 +6,7 @@ date: 2025-05-25
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Google**](https://google.com)'
+  caption: 'Image credit: [**ChatGPTGPT**](https://chatgpt.com)'
 
 authors:
   - Naren Khatwani
@@ -21,7 +21,7 @@ tags:
 ### What worked for me ?
 <div style="text-align: justify;">First of all, I bought the book "Wait, How Do I Write This Email?" - Danny Rubin. This book has a lot of templates on how to reach out to people via LinkedIN, e-mail or just connect with them and asking for their advice for your profile.<div>
 
-### What is the template I used ?
+### The template I used ?
 <div style="text-align: justify;">
 Hello ____ ,
 My name is Naren Khatwani, and I'm a Master's Student at New Jersey Institute of Technology, Newark, majoring in Computer Science. I hope you are doing well.
