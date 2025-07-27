@@ -14,6 +14,7 @@ authors:
 
 tags:
   - tips and tricks
+  - cold email
 
 ---
 ## Cold Emailing for Internships
@@ -38,6 +39,7 @@ GitHub Link -
 LinkedIn Profile -
 
 Thanks so much, and I hope to hear from you.
+
 Yours truly,
 Naren Khatwani
 <div>
