@@ -1,6 +1,6 @@
 ---
 title: Cold Emailing Tip and Tricks
-summary: Cold Emailing Tip and Tricks
+summary: A few tips and tricks for securing a summer internship or an oncampus job to gain some hands on experience
 date: 2024-05-19
 
 # Featured image
@@ -17,4 +17,6 @@ tags:
 
 ---
 <div style="text-align: justify;">
+## 
+
 <div>
