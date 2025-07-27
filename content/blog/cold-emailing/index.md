@@ -16,6 +16,8 @@ tags:
   - tips and tricks
 
 ---
+## Cold Emailing for Internships
+
 ### What worked for me ?
 <div style="text-align: justify;">First of all, I bought the book "Wait, How Do I Write This Email?" - Danny Rubin. This book has a lot of templates on how to reach out to people via LinkedIN, e-mail or just connect with them and asking for their advice for your profile.<div>
 
@@ -46,6 +48,8 @@ Naren Khatwani
 
 "Thank you very much for your time and consideration of this request. I understand that you have many priorities and if you are unable to respond, I completely respect that"
 <div>
+
+## Cold Emails for On Campus Jobs
 
 <div style="text-align: justify;">
 
